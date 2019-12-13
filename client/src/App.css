@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: black;
+}
+.card-list-container {
+  margin: 0 auto;
+  max-width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-container {
+  max-width: 20%;
+  margin: 2%;
+}
